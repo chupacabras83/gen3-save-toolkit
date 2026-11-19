@@ -1,8 +1,3 @@
 bin/
 obj/
-*.srm
 *.sav
-*.state*
-*.gba
-*.gbc
-*.gb
